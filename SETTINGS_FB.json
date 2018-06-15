@@ -1,0 +1,6 @@
+{
+  "dataset": "FB",
+  "datadir": "/mnt/data4/server/datasets/seizure/FreiBurgDataSet",
+  "cachedir": "/mnt/data5_2T/tempdata/FB_SZPred",
+  "resultdir": "results"
+}

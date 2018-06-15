@@ -1,0 +1,6 @@
+{
+  "dataset": "Kaggle2014Pred",
+  "datadir": "/mnt/data4/server/datasets/seizure/Kaggle/American_Epilepsy_Society_Seizure_Prediction_Challenge/data",
+  "cachedir": "/mnt/data5_2T/tempdata/Kaggle2014Pred",
+  "resultdir": "results"
+}

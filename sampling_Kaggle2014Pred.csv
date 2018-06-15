@@ -1,0 +1,8 @@
+Subject,Electrode,Ictal,Interictal,ictal_ovl,interictal_ovl
+Dog_1,,,,0.025,1
+Dog_2,,,,0.045,1
+Dog_3,,,,0.025,1
+Dog_4,,,,0.0675,1
+Dog_5,,,,0.035,1
+Patient_1,,,,0.07,1
+Patient_2,,,,0.08,1
