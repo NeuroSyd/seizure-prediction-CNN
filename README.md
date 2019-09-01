@@ -18,7 +18,9 @@ Truong, N. D., A. D. Nguyen, L. Kuhlmann, M. R. Bonyadi, J. Yang, S. Ippolito, a
 1. Set the paths in \*.json files. Copy files in folder "copy-to-CHBMIT-folder" to your CHBMIT dataset folder.
 
 2. Run the code
-> python main.py --mode MODE --dataset DATASET
+```console
+python main.py --mode MODE --dataset DATASET
+```
 ##### where: </br>
 * MODE: cv, test
   * cv: leave-one-seizure-out cross-validation
